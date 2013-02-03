@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Example
+Bundle-SymbolicName: com.hangum.tadpole.test.example
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.hangum.tadpole.test.example.Activator
+Bundle-Vendor: HANGUM
+Require-Bundle: org.eclipse.rap.ui;bundle-version="1.5.1",
+ org.eclipse.core.runtime
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
